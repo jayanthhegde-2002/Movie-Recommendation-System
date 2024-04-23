@@ -1,0 +1,3 @@
+First run the code in Jupyter notebook or any IDE after creating all mentioned pkl file use that for frontend connection
+use mentioned dataset from kaggle
+better use Vs code virtual environment for running app.py file
